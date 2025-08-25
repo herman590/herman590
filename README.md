@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Herman
+<div align="center">
+  
+# Hey Everyone, I'm Herman
+
+</div>
 
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/herman590/herman590/refs/heads/main/herman.jpeg" alt="Banner" />

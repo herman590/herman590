@@ -3,8 +3,6 @@
 
 <div align="center">
 
-### ![About Me](https://img.shields.io/badge/🔎%20About%20Me-2C2C2C?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)
-
 ![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)  
 ![Focus](https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML%20%7C%20Web%20Dev-orange?style=for-the-badge)  
 ![Goal](https://img.shields.io/badge/Goal-Mid%2FSenior%20Developer-success?style=for-the-badge)

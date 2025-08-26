@@ -1,8 +1,6 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/herman590/herman590/refs/heads/main/herman.png" />
 
----
-
 <div align="center">
 
 ### ![About Me](https://img.shields.io/badge/🔎%20About%20Me-2C2C2C?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)

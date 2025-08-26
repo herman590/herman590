@@ -1,11 +1,11 @@
-
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/herman590/herman590/refs/heads/main/herman.png" />
 
 ---
 
-### 🔎 About Me
 <div align="center">
+
+### 🔎 About Me
 
 ![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)  
 ![Focus](https://img.shields.io/badge/Focus-Python%20%7C%20AI%2FML%20%7C%20Web%20Dev-orange?style=for-the-badge)  
@@ -15,9 +15,9 @@
 
 ---
 
-### 🛠 Skills (Currently Learning)
-
 <div align="center">
+
+### 🛠 Skills (Currently Learning)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -33,10 +33,9 @@
 
 ---
 
-</div>
+<div align="center">
 
 ### 🏅 Learning Progress
-<div align="center">
 
 ![Learning](https://img.shields.io/badge/Learning-Basics-yellow?style=for-the-badge&logo=read-the-docs) 
 ![Progress](https://img.shields.io/badge/Progress-Intermediate-blue?style=for-the-badge&logo=progress) 
@@ -48,9 +47,9 @@
 
 ---
 
-### 📂 Projects in Progress
-
 <div align="center">
+
+### 📂 Projects in Progress
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,12 +63,7 @@
 
 </div>
 
-
 ---
-
-
-
-</div>
 
 <div align="center">
 
@@ -80,9 +74,7 @@
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
@@ -90,4 +82,3 @@
 [![Email](https://img.shields.io/badge/Email-hermandevbusiness@proton.me-2C2C2C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555&label=Email)](mailto:hermandevbusiness@proton.me)
 
 </div>
-

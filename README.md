@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/herman590/herman590/refs/heads/main/hermanv.png" alt="Banner" />
+<img src="https://raw.githubusercontent.com/herman590/herman590/refs/heads/main/herman.png" />
 
 ---
 

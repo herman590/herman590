@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Skills (Currently Learning)
+### 🛠 Skills (Currently Learning)
 
 <div align="center">
 
@@ -33,15 +33,6 @@
 
 ---
 
-## 🎯 Goals
-
-<div align="center">
-
-- 🐍 Master **Python** and frameworks **Django / Flask**  
-- 🗄️ Learn **SQL** and **Git**  
-- 🤖 Start learning **AI / Machine Learning**  
-- ☁️ Explore cloud platforms: **AWS, Azure, GCP**  
-
 </div>
 
 ### 🏅 Learning Progress
@@ -57,7 +48,7 @@
 
 ---
 
-## 📂 Projects in Progress
+### 📂 Projects in Progress
 
 <div align="center">
 

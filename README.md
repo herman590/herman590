@@ -30,11 +30,11 @@
 </p>
 
 <!-- Minimal divider -->
-<p align="center">──────────────</p>
+<p align="center">───</p>
 
 <!-- Contact (skillicons for visuals + links) -->
 <p align="center">
-  <a href="mailto:hermanpythondev@gmail.com">
+  <a href="mailto:hermandevbusiness@proton.me">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email"/>
   </a>
 </p>
